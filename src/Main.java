@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //Task 1
+        //Task1
         String firstName = "Ivan";
         String middleName = "Ivanovich";
         String lastName = "Ivanov";
